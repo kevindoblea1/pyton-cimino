@@ -1,0 +1,170 @@
+2022-12-05 12:25:41.607 [info] Extension host agent started.
+2022-12-05 12:25:41.918 [info] [127.0.0.1][d71e4726][ManagementConnection] New connection established.
+2022-12-05 12:25:42.125 [info] [127.0.0.1][db757b68][ExtensionHostConnection] New connection established.
+2022-12-05 12:25:42.128 [info] [127.0.0.1][db757b68][ExtensionHostConnection] <1197> Launched Extension Host Process.
+2022-12-05 12:28:23.414 [info] Getting Manifest... eamodio.gitlens
+2022-12-05 12:28:23.999 [info] Installing extension: eamodio.gitlens
+2022-12-05 12:28:29.354 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.c5c41ade-a545-443a-ba19-c0ca66fa74b1: eamodio.gitlens
+2022-12-05 12:28:29.364 [info] Renamed to /home/kevin/.vscode-server/extensions/eamodio.gitlens-13.1.1
+2022-12-05 12:28:29.371 [info] Extracting completed. eamodio.gitlens
+2022-12-05 12:28:29.372 [info] Extension installed successfully: eamodio.gitlens
+2022-12-05 12:28:49.824 [info] Getting Manifest... ms-vscode.cpptools
+2022-12-05 12:28:50.276 [info] Installing extension: ms-vscode.cpptools
+2022-12-05 12:28:50.595 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:50.891 [info] Installing extension: ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:52.028 [info] Getting Manifest... ms-vscode.cpptools
+2022-12-05 12:28:52.370 [info] Getting Manifest... twxs.cmake
+2022-12-05 12:28:52.488 [info] Getting Manifest... ms-vscode.cmake-tools
+2022-12-05 12:28:52.535 [info] Getting Manifest... ms-dotnettools.csharp
+2022-12-05 12:28:52.754 [info] Installing extension: twxs.cmake
+2022-12-05 12:28:53.078 [info] Getting Manifest... ms-vscode.cmake-tools
+2022-12-05 12:28:53.109 [info] Installing extension: ms-dotnettools.csharp
+2022-12-05 12:28:53.529 [info] Getting Manifest... twxs.cmake
+2022-12-05 12:28:53.753 [info] Getting Manifest... naumovs.color-highlight
+2022-12-05 12:28:53.772 [info] Installing extension: ms-vscode.cmake-tools
+2022-12-05 12:28:53.781 [info] Getting Manifest... ms-vscode.cpptools-themes
+2022-12-05 12:28:54.186 [info] Waiting for already requested installing extension ms-vscode.cpptools ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:54.186 [info] Waiting for already requested installing extension ms-vscode.cmake-tools ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:54.186 [info] Waiting for already requested installing extension twxs.cmake ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:54.187 [info] Installing extension: ms-vscode.cpptools-themes ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:54.188 [info] Installing extension: naumovs.color-highlight
+2022-12-05 12:28:54.433 [info] Getting Manifest... dart-code.dart-code
+2022-12-05 12:28:54.523 [info] Getting Manifest... twxs.cmake
+2022-12-05 12:28:55.058 [info] Getting Manifest... ecmel.vscode-html-css
+2022-12-05 12:28:55.463 [info] Installing extension: ecmel.vscode-html-css
+2022-12-05 12:28:55.484 [info] Installing extension: dart-code.dart-code
+2022-12-05 12:28:55.699 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.7be9f968-02b8-41f4-8da8-100944a4ae73: ms-vscode.cpptools-themes
+2022-12-05 12:28:55.701 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-vscode.cpptools-themes-2.0.0
+2022-12-05 12:28:55.702 [info] Extracting completed. ms-vscode.cpptools-themes
+2022-12-05 12:28:55.740 [info] Getting Manifest... ms-python.isort
+2022-12-05 12:28:56.422 [info] Installing extension: ms-python.isort
+2022-12-05 12:28:56.677 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.25230566-57dd-49e7-bdd5-fb4c09f0a882: ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:56.680 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2022-12-05 12:28:56.683 [info] Extracting completed. ms-vscode.cpptools-extension-pack
+2022-12-05 12:28:56.696 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.778828dd-9328-43a7-9efa-c0f3482ea298: ecmel.vscode-html-css
+2022-12-05 12:28:56.700 [info] Renamed to /home/kevin/.vscode-server/extensions/ecmel.vscode-html-css-1.13.1
+2022-12-05 12:28:56.701 [info] Extracting completed. ecmel.vscode-html-css
+2022-12-05 12:28:56.701 [info] Extension installed successfully: ecmel.vscode-html-css
+2022-12-05 12:28:57.294 [info] Getting Manifest... ms-python.python
+2022-12-05 12:28:57.655 [info] Getting Manifest... ms-toolsai.jupyter
+2022-12-05 12:28:58.445 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 12:28:58.723 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 12:28:59.006 [info] Installing extension: ms-toolsai.jupyter
+2022-12-05 12:28:59.226 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-05 12:28:59.307 [info] Getting Manifest... ms-toolsai.jupyter
+2022-12-05 12:28:59.315 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2022-12-05 12:28:59.511 [info] Installing extension: ms-toolsai.jupyter-renderers
+2022-12-05 12:28:59.718 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-05 12:28:59.914 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 12:28:59.995 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 12:29:00.195 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 12:29:00.284 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 12:29:00.550 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.110d9bc2-6fea-4857-86dd-eb3f5a5e3a1c: naumovs.color-highlight
+2022-12-05 12:29:00.553 [info] Renamed to /home/kevin/.vscode-server/extensions/naumovs.color-highlight-2.5.0
+2022-12-05 12:29:00.554 [info] Extracting completed. naumovs.color-highlight
+2022-12-05 12:29:00.555 [info] Extension installed successfully: naumovs.color-highlight
+2022-12-05 12:29:00.603 [info] Installing extension: ms-toolsai.jupyter-keymap ms-toolsai.jupyter
+2022-12-05 12:29:00.603 [info] Waiting for already requested installing extension ms-toolsai.jupyter-renderers ms-toolsai.jupyter
+2022-12-05 12:29:00.603 [info] Waiting for already requested installing extension ms-toolsai.vscode-jupyter-cell-tags ms-toolsai.jupyter
+2022-12-05 12:29:00.603 [info] Waiting for already requested installing extension ms-toolsai.vscode-jupyter-slideshow ms-toolsai.jupyter
+2022-12-05 12:29:00.684 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.53cde2ec-bf76-4bb2-bca4-90561f5badd3: ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 12:29:00.687 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+2022-12-05 12:29:00.688 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 12:29:00.689 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 12:29:01.221 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2022-12-05 12:29:01.410 [info] Getting Manifest... ritwickdey.liveserver
+2022-12-05 12:29:01.482 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-05 12:29:01.724 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.cb4429d7-22f5-4d29-b186-13cc00da02e9: ms-toolsai.jupyter-keymap
+2022-12-05 12:29:01.727 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+2022-12-05 12:29:01.728 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2022-12-05 12:29:01.807 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2022-12-05 12:29:02.101 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 12:29:02.220 [info] Getting Manifest... ionutvmi.path-autocomplete
+2022-12-05 12:29:02.299 [info] Installing extension: ritwickdey.liveserver
+2022-12-05 12:29:02.395 [info] Getting Manifest... ms-python.vscode-pylance
+2022-12-05 12:29:02.662 [info] Installing extension: ionutvmi.path-autocomplete
+2022-12-05 12:29:02.801 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.e1f66e6f-fe48-4c88-9645-69f043ad39d8: ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 12:29:02.804 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2022-12-05 12:29:02.806 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 12:29:02.806 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2022-12-05 12:29:02.891 [info] Getting Manifest... christian-kohler.path-intellisense
+2022-12-05 12:29:03.195 [info] Installing extension: ms-python.python ms-python.isort
+2022-12-05 12:29:03.195 [info] Waiting for already requested installing extension ms-toolsai.jupyter ms-python.isort
+2022-12-05 12:29:03.196 [info] Waiting for already requested installing extension ms-toolsai.jupyter-keymap ms-python.isort
+2022-12-05 12:29:03.196 [info] Waiting for already requested installing extension ms-toolsai.jupyter-renderers ms-python.isort
+2022-12-05 12:29:03.196 [info] Waiting for already requested installing extension ms-toolsai.vscode-jupyter-cell-tags ms-python.isort
+2022-12-05 12:29:03.196 [info] Waiting for already requested installing extension ms-toolsai.vscode-jupyter-slideshow ms-python.isort
+2022-12-05 12:29:03.196 [info] Installing extension: ms-python.vscode-pylance ms-python.isort
+2022-12-05 12:29:03.403 [info] Installing extension: christian-kohler.path-intellisense
+2022-12-05 12:29:03.716 [info] Getting Manifest... esbenp.prettier-vscode
+2022-12-05 12:29:03.983 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.b2c5fb01-9077-4912-b4c1-9e34f9857f8d: ionutvmi.path-autocomplete
+2022-12-05 12:29:03.986 [info] Renamed to /home/kevin/.vscode-server/extensions/ionutvmi.path-autocomplete-1.22.1
+2022-12-05 12:29:03.987 [info] Extracting completed. ionutvmi.path-autocomplete
+2022-12-05 12:29:03.988 [info] Extension installed successfully: ionutvmi.path-autocomplete
+2022-12-05 12:29:04.137 [info] Installing extension: esbenp.prettier-vscode
+2022-12-05 12:29:04.414 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.2dbe7e83-44e4-4721-bd24-51a691c302e4: ms-vscode.cmake-tools
+2022-12-05 12:29:04.418 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-vscode.cmake-tools-1.12.27
+2022-12-05 12:29:04.426 [info] Extracting completed. ms-vscode.cmake-tools
+2022-12-05 12:29:04.426 [info] Extension installed successfully: ms-vscode.cmake-tools
+2022-12-05 12:29:06.117 [info] Getting Manifest... rebornix.ruby
+2022-12-05 12:29:06.957 [info] Installing extension: rebornix.ruby
+2022-12-05 12:29:07.058 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.4530f2f9-2a7d-4455-88bb-74cd5d654f8f: christian-kohler.path-intellisense
+2022-12-05 12:29:07.061 [info] Renamed to /home/kevin/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.3
+2022-12-05 12:29:07.062 [info] Extracting completed. christian-kohler.path-intellisense
+2022-12-05 12:29:07.062 [info] Extension installed successfully: christian-kohler.path-intellisense
+2022-12-05 12:29:07.329 [info] Getting Manifest... wingrunr21.vscode-ruby
+2022-12-05 12:29:07.638 [info] Installing extension: wingrunr21.vscode-ruby rebornix.ruby
+2022-12-05 12:29:09.355 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.68e6c995-f958-4cde-bcdc-f5535c08a1b0: wingrunr21.vscode-ruby
+2022-12-05 12:29:09.358 [info] Renamed to /home/kevin/.vscode-server/extensions/wingrunr21.vscode-ruby-0.28.0
+2022-12-05 12:29:09.359 [info] Extracting completed. wingrunr21.vscode-ruby
+2022-12-05 12:29:16.916 [error] Error while installing the extension: rebornix.ruby
+2022-12-05 12:29:16.934 [info] Rollback: Uninstalled extension wingrunr21.vscode-ruby
+2022-12-05 12:29:16.935 [error] Failed to install extension. rebornix.ruby
+2022-12-05 12:29:16.936 [error] Download: Unable to write file '/home/kevin/.vscode-server/data/CachedExtensionVSIXs/.c4cd15fa-7c49-47a4-803a-7d629c9274dd' (Error: aborted)
+    at Sn.download (/home/kevin/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/server/node/server.main.js:90:3608)
+    at async V.doRun (/home/kevin/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/server/node/server.main.js:146:92152)
+2022-12-05 12:29:17.044 [info] Detected extension removed from another source wingrunr21.vscode-ruby
+2022-12-05 12:29:17.917 [error] Download: Unable to write file '/home/kevin/.vscode-server/data/CachedExtensionVSIXs/.c4cd15fa-7c49-47a4-803a-7d629c9274dd' (Error: aborted)
+    at Sn.download (/home/kevin/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/server/node/server.main.js:90:3608)
+    at async V.doRun (/home/kevin/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/server/node/server.main.js:146:92152)
+2022-12-05 12:29:18.361 [info] Downloaded extension to file:///home/kevin/.vscode-server/data/CachedExtensionVSIXs/84b0541a-482e-461b-a65f-b7a7995487bb
+2022-12-05 12:29:18.366 [info] Installing extension: rebornix.ruby
+2022-12-05 12:29:18.366 [info] Installing the extension without checking dependencies and pack rebornix.ruby
+2022-12-05 12:29:18.795 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.44481541-32da-42ef-86df-d71bc899ce3a: rebornix.ruby
+2022-12-05 12:29:18.801 [info] Renamed to /home/kevin/.vscode-server/extensions/rebornix.ruby-0.28.1
+2022-12-05 12:29:18.806 [info] Extracting completed. rebornix.ruby
+2022-12-05 12:29:18.807 [info] Extension installed successfully: rebornix.ruby
+2022-12-05 12:29:23.213 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.7ce2d28c-173f-4625-8c84-7d975df393f8: twxs.cmake
+2022-12-05 12:29:23.217 [info] Renamed to /home/kevin/.vscode-server/extensions/twxs.cmake-0.0.17
+2022-12-05 12:29:23.218 [info] Extracting completed. twxs.cmake
+2022-12-05 12:29:23.218 [info] Extension installed successfully: twxs.cmake
+2022-12-05 12:29:26.383 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.cc760b4c-7163-4290-aee4-bc5b41b392bb: esbenp.prettier-vscode
+2022-12-05 12:29:26.386 [info] Renamed to /home/kevin/.vscode-server/extensions/esbenp.prettier-vscode-9.10.3
+2022-12-05 12:29:26.388 [info] Extracting completed. esbenp.prettier-vscode
+2022-12-05 12:29:26.389 [info] Extension installed successfully: esbenp.prettier-vscode
+2022-12-05 12:29:32.816 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.87a8e71d-2cc9-4dcb-9a1f-83c9e8bd2b6e: ms-toolsai.jupyter-renderers
+2022-12-05 12:29:32.819 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.12
+2022-12-05 12:29:32.821 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2022-12-05 12:29:32.821 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2022-12-05 12:29:34.666 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.07746d0f-2545-476e-ad86-bee9a46d887e: ritwickdey.liveserver
+2022-12-05 12:29:34.673 [info] Renamed to /home/kevin/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2022-12-05 12:29:34.674 [info] Extracting completed. ritwickdey.liveserver
+2022-12-05 12:29:34.675 [info] Extension installed successfully: ritwickdey.liveserver
+2022-12-05 12:30:02.273 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.74393601-fc73-4467-ab00-4d79851ccf6b: ms-python.python
+2022-12-05 12:30:02.280 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-python.python-2022.18.2
+2022-12-05 12:30:02.284 [info] Extracting completed. ms-python.python
+2022-12-05 12:30:05.820 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.135dbc61-e2f0-4bfd-a611-530de1a964ed: ms-toolsai.jupyter
+2022-12-05 12:30:05.824 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+2022-12-05 12:30:05.835 [info] Extracting completed. ms-toolsai.jupyter
+2022-12-05 12:30:05.835 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2022-12-05 12:30:05.836 [info] Extension installed successfully: ms-toolsai.jupyter
+2022-12-05 12:30:08.667 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.2d51a845-feef-4386-ab11-b2107e1d1223: dart-code.dart-code
+2022-12-05 12:30:08.676 [info] Renamed to /home/kevin/.vscode-server/extensions/dart-code.dart-code-3.54.1
+2022-12-05 12:30:08.678 [info] Extracting completed. dart-code.dart-code
+2022-12-05 12:30:08.678 [info] Extension installed successfully: dart-code.dart-code
+2022-12-05 12:30:54.076 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.671f8a5a-2f1a-4b69-9d7d-604f504d6dbd: ms-python.vscode-pylance
+2022-12-05 12:30:54.089 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.40
+2022-12-05 12:30:54.091 [info] Extracting completed. ms-python.vscode-pylance
+2022-12-05 12:30:56.228 [info] Extracted extension to /home/kevin/.vscode-server/extensions/.2248c1d5-a101-41d9-a2c5-bf6b2bd8aaaf: ms-python.isort
+2022-12-05 12:30:56.231 [info] Renamed to /home/kevin/.vscode-server/extensions/ms-python.isort-2022.8.0
+2022-12-05 12:30:56.232 [info] Extracting completed. ms-python.isort
